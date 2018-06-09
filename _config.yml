@@ -26,14 +26,14 @@ medium_username:  asankanissanka
 #lastfm_username: your_lastfm_username_goes_here
 blog_url: "blog.asankan.info"
 email: hello@asankan.info
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "https://avatars0.githubusercontent.com/u/1430477"
 
 
 front_img: yes
